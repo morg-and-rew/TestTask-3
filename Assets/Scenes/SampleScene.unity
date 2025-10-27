@@ -1248,7 +1248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d5b52ee34512e44c8ae0ed5fa005a02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _slotPrefab: {fileID: 8132651996963633385, guid: 150e1acb6f9aeef48aa1eb52bfcdf854, type: 3}
+  _slotPrefab: {fileID: 917708435708005840, guid: 9aa37de50f68752428584022c4471d2e, type: 3}
   _slotsParent: {fileID: 2108903824}
 --- !u!114 &1294356954
 MonoBehaviour:
@@ -1459,7 +1459,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _inventoryManagerReference: {fileID: 1368296606}
-  _descendingOrder: 1
+  _descendingOrder: 0
 --- !u!1 &1588407342
 GameObject:
   m_ObjectHideFlags: 0
